@@ -159,7 +159,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.BigETI.UnityTemplate
-    Standalone: com.elads.Quatcol
+    Standalone: com.BigETI.UnityTemplate
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -702,7 +702,7 @@ PlayerSettings:
   platformArchitecture: {}
   scriptingBackend:
     Android: 0
-    Standalone: 1
+    Standalone: 0
   il2cppCompilerConfiguration: {}
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
